@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "amazon-properties.endpoint-url",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon-properties.endpoint-url'"
+  },
+  {
+    "name": "auth.app.jwt-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.app.jwt-secret'"
+  },
+  {
+    "name": "auth.app.jwt-expiration-ms",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.app.jwt-expiration-ms'"
+  },
+  {
+    "name": "auth.app.jwt-refresh-ms",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.app.jwt-refresh-ms'"
+  },
+  {
+    "name": "auth.app.jwt-not-before-ms",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.app.jwt-not-before-ms'"
+  },
+  {
+    "name": "amazon-properties.access-key",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon-properties.access-key'"
+  },
+  {
+    "name": "amazon-properties.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon-properties.secret-key'"
+  },
+  {
+    "name": "amazon-properties.bucket-name",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon-properties.bucket-name'"
+  },
+  {
+    "name": "amazon-properties.region",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon-properties.region'"
+  }
+]}
